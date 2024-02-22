@@ -78,4 +78,4 @@ pipelines:
       - proxy:
           - action:
               serviceEndpoint: iss
-              changeOrigin: true 
+              changeOrigin: true  
